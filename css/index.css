@@ -1,0 +1,25 @@
+html{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background:grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+nav{
+    background: linear-gradient(69deg, rgba(238,225,201,1) 0%, rgba(243,150,150,1) 50%, rgba(233,158,228,1) 100%);
+    display:flex;
+}
+
+.logo{
+    width: 160px;
+    height: auto;
+}
